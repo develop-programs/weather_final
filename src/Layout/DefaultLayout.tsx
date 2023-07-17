@@ -54,7 +54,7 @@ function DefaultLayout({ children }: { children: React.ReactNode }) {
                 {" "}
                 {Theme ? <BsBrightnessHigh /> : <MdBrightness2 />}
               </IconButton>
-              <IconButton aria-label="">
+              <IconButton href="https://github.com/develop-programs/weather_final.git">
                 <FaGithub />
               </IconButton>
             </Typography>
